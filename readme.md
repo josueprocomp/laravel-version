@@ -1,3 +1,5 @@
+### Temporary forked repository created for personal use with support for Laravel 11. May not work correctly or may be missing dependencies. It is recommended not to use.
+
 # Laravel Version
 
 [![Build Status](https://travis-ci.org/mnabialek/laravel-version.svg?branch=master)](https://travis-ci.org/mnabialek/laravel-version)
